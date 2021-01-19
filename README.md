@@ -1,7 +1,7 @@
 # links-sites-de-prototipos
 ## Repositório com link de sites com diversos protótipos para testar suas habilidades e aumentar seus portfólios  
 
-### Sem ideias para criar portas? Acabou seus problemas!
+### Sem ideias para criar portfas? Acabou seus problemas!
 
 ![imagem-gato](https://i0.wp.com/www.kimcrivel.com/wp-content/uploads/2019/10/GATOS-FOFINHOS_KIMCRIVEL-04.jpg?resize=396%2C396&ssl=1)
 
